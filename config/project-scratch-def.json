@@ -7,6 +7,10 @@
     ],
     "disabled": []
   },
-  "orgName": "Your Company",
-  "adminEmail": "yourname@example.com"
+  "orgName": "Musker Trading",
+  "adminEmail": "dhmusker@gmail.com",
+  "username": "dhmusker@gmail.com",
+  "description": "A development sandbox for evaulating git hub repositories and automated deployment of Salesforce configurations",
+  "hasSampleData": "false"
+  
 }
